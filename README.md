@@ -1,4 +1,4 @@
-<h1>GET IT</h1>
+<h1><a class="link-gray-dark"  href="https://www.google.com/webhp?hl=tr&sa=X&ved=0ahUKEwi_jamUhc7tAhUkxIUKHRpcAUgQPAgI">Download</a></h1>
 
 <h1>Why you need this?</h1>
 Well you need this because there is 
